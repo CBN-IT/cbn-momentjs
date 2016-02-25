@@ -3,10 +3,11 @@
     "private": true,
     "main": "index.html",
     "dependencies": {
-        "moment": "^2.10",
-        "moment-range": "^1.0"
+        "moment": "2.11.2",
+        "moment-range": "2.1.0"
     },
     "devDependencies": {
     },
     "version": "0.1"
 }
+
