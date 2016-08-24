@@ -1,14 +1,12 @@
 {
     "name": "cbn-momentjs",
     "version": "1.0.0",
-    "private": true,
     "main": "index.html",
     "dependencies": {
-        "moment": "moment/moment#2.14.1",
-        "moment-range": "gf3/moment-range#2.2.0"
+        "moment": "moment/moment#~2.14.1",
+        "moment-range": "gf3/moment-range#~2.2.0"
     },
     "devDependencies": {
     }
-    
 }
 
